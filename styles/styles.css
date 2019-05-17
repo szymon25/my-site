@@ -1,0 +1,16 @@
+
+h1 {
+    text-align: center;
+    color: blue;
+}
+h2 {
+    text-align: center;
+}
+p {
+    text-indent: 24px;
+}
+
+.container {
+    width:900px;
+    margin: 0 auto;
+}
