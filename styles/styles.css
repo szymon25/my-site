@@ -9,8 +9,16 @@ h2 {
 p {
     text-indent: 24px;
 }
+h3 {
+    text-shadow: maroon
+}
 
 .container {
     width:900px;
     margin: 0 auto;
+    background: orange;
+
+}
+.background {
+    color: yellow;
 }
